@@ -1,63 +1,27 @@
 <application>
   <component name="libraryTable">
-    <library name="JUSTICE 2">
+    <library name="Python 3.5.2 virtualenv at C:\Users\Aaron\virtualenvs\test-16-09-11 interpreter library">
       <CLASSES>
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/AirQuality/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/AirQuality/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/CLI/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/CLI/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/Core/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/Core/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/DB-PostGIS/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/DB/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/DB/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/DMC/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/DMS/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/DMS/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/GIS/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/GIS/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/Graphs/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/Graphs/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/IMS/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/KML/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/KML/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/LOG/Log4j/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/LOG/Log4j/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/LOG/Slf4j/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/LOG/Slf4j/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/NetCDF/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/NetCDF/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/Stripes/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/Units/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/Units/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/WebUI/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/WebUI/src/test/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/Web/src/main/java" />
-        <root url="file://C:/dev/JUSTICE/JUSTICE 2.0/Web/src/test/java" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7.11 (C:\Program Files\Python\Python27\python.exe) interpreter library">
-      <CLASSES>
-        <root url="file://C:/Program Files/Python/Python27/DLLs" />
-        <root url="file://C:/Program Files/Python/Python27/Lib" />
-        <root url="file://C:/Program Files/Python/Python27/Lib/lib-tk" />
-        <root url="file://C:/Program Files/Python/Python27" />
-        <root url="file://C:/Program Files/Python/Python27/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-781709657" />
+        <root url="jar://$USER_HOME$/virtualenvs/test-16-09-11/Lib/site-packages/setuptools-18.1-py3.5.egg!/" />
+        <root url="file://$USER_HOME$/virtualenvs/test-16-09-11/Lib/site-packages/pip-7.1.0-py3.5.egg" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
+        <root url="file://$USER_HOME$/virtualenvs/test-16-09-11" />
+        <root url="file://$USER_HOME$/virtualenvs/test-16-09-11/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-332070246" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://C:/Program Files/Python/Python27/DLLs" />
-        <root url="file://C:/Program Files/Python/Python27/Lib" />
-        <root url="file://C:/Program Files/Python/Python27/Lib/lib-tk" />
-        <root url="file://C:/Program Files/Python/Python27" />
-        <root url="file://C:/Program Files/Python/Python27/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-781709657" />
+        <root url="jar://$USER_HOME$/virtualenvs/test-16-09-11/Lib/site-packages/setuptools-18.1-py3.5.egg!/" />
+        <root url="file://$USER_HOME$/virtualenvs/test-16-09-11/Lib/site-packages/pip-7.1.0-py3.5.egg" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
+        <root url="file://$USER_HOME$/virtualenvs/test-16-09-11" />
+        <root url="file://$USER_HOME$/virtualenvs/test-16-09-11/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-332070246" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
