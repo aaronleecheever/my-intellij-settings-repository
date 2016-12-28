@@ -3,12 +3,12 @@
     <option name="customScope" value="Project 'STIUtilTrunk'" />
     <option name="defaultScopeName" value="Project 'STIUtilTrunk'" />
     <option name="SEARCH_SCOPE" value="Project 'STIUtilTrunk'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -16,6 +16,7 @@
       <mask>*.*</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
