@@ -713,6 +713,7 @@
         <entry key="ssl_match_hostname" value="3.4.0.2" />
         <entry key="statsmodels" value="0.6.1" />
         <entry key="stripe" value="1.37.0" />
+        <entry key="subprocess32" value="3.2.7" />
         <entry key="suds-jurko" value="0.6" />
         <entry key="svn" value="1.9.4" />
         <entry key="swig" value="3.0.10" />
@@ -7925,6 +7926,13 @@
             </list>
           </value>
         </entry>
+        <entry key="subprocess32">
+          <value>
+            <list>
+              <option value="3.2.7" />
+            </list>
+          </value>
+        </entry>
         <entry key="suds-jurko">
           <value>
             <list>
@@ -8664,6 +8672,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1485479085650" />
+    <option name="LAST_TIME_CHECKED" value="1485794799640" />
   </component>
 </application>
