@@ -6,7 +6,7 @@
         <entry key="_license" value="1.1" />
         <entry key="_nb_ext_conf" value="0.3.0" />
         <entry key="_windows" value="1.0" />
-        <entry key="accelerate" value="2.3.0" />
+        <entry key="accelerate" value="2.3.1" />
         <entry key="accelerate_cudalib" value="2.0" />
         <entry key="affine" value="2.0.0" />
         <entry key="alabaster" value="0.7.9" />
@@ -85,7 +85,7 @@
         <entry key="colorama" value="0.3.7" />
         <entry key="colorcet" value="0.9.1" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.3.8" />
+        <entry key="conda" value="4.3.9" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="2.1.3" />
         <entry key="conda-build-all" value="1.0.1" />
@@ -855,6 +855,7 @@
               <option value="1.11.0" />
               <option value="2.2.0" />
               <option value="1.12.0" />
+              <option value="2.3.1" />
             </list>
           </value>
         </entry>
@@ -1911,6 +1912,7 @@
               <option value="1.5.2" />
               <option value="1.6.0" />
               <option value="1.3.2" />
+              <option value="4.3.9" />
             </list>
           </value>
         </entry>
@@ -8688,6 +8690,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1486056907929" />
+    <option name="LAST_TIME_CHECKED" value="1486152928915" />
   </component>
 </application>
