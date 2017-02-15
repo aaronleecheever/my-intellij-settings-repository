@@ -163,5 +163,30 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
+    <library name="Python 2.7.11 virtualenv at C:\Users\acheever\typescript-example interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/typescript-example/Lib" />
+        <root url="file://$USER_HOME$/typescript-example/Scripts" />
+        <root url="file://C:/Program Files/Python/Python27/Lib" />
+        <root url="file://C:/Program Files/Python/Python27/DLLs" />
+        <root url="file://C:/Program Files/Python/Python27/Lib/lib-tk" />
+        <root url="file://$USER_HOME$/typescript-example" />
+        <root url="file://$USER_HOME$/typescript-example/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/1625523201" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/typescript-example/Lib" />
+        <root url="file://$USER_HOME$/typescript-example/Scripts" />
+        <root url="file://C:/Program Files/Python/Python27/Lib" />
+        <root url="file://C:/Program Files/Python/Python27/DLLs" />
+        <root url="file://C:/Program Files/Python/Python27/Lib/lib-tk" />
+        <root url="file://$USER_HOME$/typescript-example" />
+        <root url="file://$USER_HOME$/typescript-example/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/1625523201" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
   </component>
 </application>
