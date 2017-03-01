@@ -740,6 +740,7 @@
         <entry key="toolz" value="0.8.2" />
         <entry key="tornado" value="4.4.2" />
         <entry key="toro" value="1.0.1" />
+        <entry key="tqdm" value="4.11.2" />
         <entry key="traitlets" value="4.3.2" />
         <entry key="traits" value="4.6.0" />
         <entry key="traitsui" value="5.1.0" />
@@ -8214,6 +8215,13 @@
             </list>
           </value>
         </entry>
+        <entry key="tqdm">
+          <value>
+            <list>
+              <option value="4.11.2" />
+            </list>
+          </value>
+        </entry>
         <entry key="traitlets">
           <value>
             <list>
@@ -8816,6 +8824,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1488241218729" />
+    <option name="LAST_TIME_CHECKED" value="1488331855802" />
   </component>
 </application>
