@@ -11,7 +11,7 @@
         <entry key="affine" value="2.0.0" />
         <entry key="alabaster" value="0.7.10" />
         <entry key="alpaca_static" value="1.5.22" />
-        <entry key="anaconda" value="4.3.0" />
+        <entry key="anaconda" value="4.3.1" />
         <entry key="anaconda-build" value="1.15.0" />
         <entry key="anaconda-clean" value="1.1.0" />
         <entry key="anaconda-client" value="1.6.2" />
@@ -775,7 +775,7 @@
         <entry key="webob" value="1.6.1" />
         <entry key="websocket" value="0.2.1" />
         <entry key="webtest" value="2.0.23" />
-        <entry key="werkzeug" value="0.11.15" />
+        <entry key="werkzeug" value="0.12" />
         <entry key="wget" value="2.2" />
         <entry key="wheel" value="0.29.0" />
         <entry key="whoosh" value="2.7.4" />
@@ -936,6 +936,7 @@
               <option value="2.5.0" />
               <option value="4.0.0" />
               <option value="4.3.0" />
+              <option value="4.3.1" />
             </list>
           </value>
         </entry>
@@ -8567,6 +8568,7 @@
               <option value="0.11.2" />
               <option value="0.9.1" />
               <option value="0.11.10" />
+              <option value="0.12" />
             </list>
           </value>
         </entry>
@@ -8870,6 +8872,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1489105780470" />
+    <option name="LAST_TIME_CHECKED" value="1489446934482" />
   </component>
 </application>
