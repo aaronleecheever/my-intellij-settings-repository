@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '[DMSService] - ...\DMSService\src\main\java\com\sti\dms\service\job\CSNMailer.java'" />
-    <option name="defaultScopeName" value="File '[DMSService] - ...\DMSService\src\main\java\com\sti\dms\service\job\CSNMailer.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[DMSService] - ...\DMSService\src\main\java\com\sti\dms\service\job\CSNMailer.java'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
