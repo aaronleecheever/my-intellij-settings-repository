@@ -23,12 +23,14 @@
       <mask>*.s</mask>
       <mask>*.*s</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.v</mask>
+      <mask>*.vm</mask>
     </recentFileMasks>
   </component>
 </application>
