@@ -24,11 +24,11 @@
       <mask>*.vm</mask>
       <mask>*.v</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
