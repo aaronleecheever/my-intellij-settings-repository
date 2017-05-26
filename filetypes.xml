@@ -4,6 +4,7 @@
       <mapping ext="ubuntuexample" type="PLAIN_TEXT" />
       <mapping ext="windowsexample" type="PLAIN_TEXT" />
       <mapping ext="lnk" type="PLAIN_TEXT" />
+      <mapping pattern="Widget" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
