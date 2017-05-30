@@ -134,39 +134,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
-    <library name="Python 2.7.11 virtualenv at C:\Users\acheever\PersonalSiteVirtualEnv interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/PersonalSiteVirtualEnv/Lib" />
-        <root url="file://$USER_HOME$/PersonalSiteVirtualEnv/Scripts" />
-        <root url="file://C:/Program Files/Python/Python27/Lib" />
-        <root url="file://C:/Program Files/Python/Python27/DLLs" />
-        <root url="file://C:/Program Files/Python/Python27/Lib/lib-tk" />
-        <root url="file://$USER_HOME$/PersonalSiteVirtualEnv" />
-        <root url="file://$USER_HOME$/PersonalSiteVirtualEnv/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/634295098" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/PersonalSiteVirtualEnv/Lib" />
-        <root url="file://$USER_HOME$/PersonalSiteVirtualEnv/Scripts" />
-        <root url="file://C:/Program Files/Python/Python27/Lib" />
-        <root url="file://C:/Program Files/Python/Python27/DLLs" />
-        <root url="file://C:/Program Files/Python/Python27/Lib/lib-tk" />
-        <root url="file://$USER_HOME$/PersonalSiteVirtualEnv" />
-        <root url="file://$USER_HOME$/PersonalSiteVirtualEnv/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/634295098" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Python 2.7.11 virtualenv at C:\Users\acheever\STIUtilVirtualEnv interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/STIUtilVirtualEnv/Lib" />
