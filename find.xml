@@ -4,15 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.py</mask>
-      <mask>*.php</mask>
-      <mask>*</mask>
-      <mask>*.s</mask>
       <mask>*.*s</mask>
       <mask>*.*</mask>
       <mask>*.c</mask>
@@ -31,6 +22,18 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>.java</mask>
+      <mask>D.java</mask>
+      <mask>Dr.java</mask>
+      <mask>Dri.java</mask>
+      <mask>Drif.java</mask>
+      <mask>Drift.java</mask>
+      <mask>DriftD.java</mask>
+      <mask>DriftDA.java</mask>
+      <mask>DriftDAL.java</mask>
+      <mask>DriftDAL.js</mask>
+      <mask>DriftDAL.s</mask>
+      <mask>DriftDAL.ts</mask>
     </recentFileMasks>
   </component>
 </application>
