@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="HomeScreen" type="JavaScript" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="ubuntuexample" type="PLAIN_TEXT" />
+      <mapping ext="customdms" type="PLAIN_TEXT" />
       <mapping ext="windowsexample" type="PLAIN_TEXT" />
       <mapping ext="lnk" type="PLAIN_TEXT" />
       <mapping pattern="Widget" type="TypeScript" />
