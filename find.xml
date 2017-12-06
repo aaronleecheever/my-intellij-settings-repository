@@ -1,12 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
@@ -23,19 +20,20 @@
       <mask>DriftDAL.js</mask>
       <mask>DriftDAL.s</mask>
       <mask>DriftDAL.ts</mask>
-      <mask>*.t</mask>
       <mask>*.hja</mask>
       <mask>*.hj</mask>
       <mask>*.h</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.ts</mask>
       <mask>*.vm</mask>
       <mask>*.v</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
+      <mask>*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
