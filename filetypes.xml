@@ -6,6 +6,7 @@
       <mapping ext="customdms" type="PLAIN_TEXT" />
       <mapping ext="windowsexample" type="PLAIN_TEXT" />
       <mapping ext="lnk" type="PLAIN_TEXT" />
+      <mapping ext="jsx_bak" type="PLAIN_TEXT" />
       <mapping pattern="Widget" type="TypeScript" />
     </extensionMap>
   </component>
