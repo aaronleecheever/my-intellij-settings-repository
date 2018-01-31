@@ -7,6 +7,7 @@
     <notification groupId="Framework Detection" displayType="NONE" />
     <notification groupId="IGNORE_GROUP" displayType="NONE" shouldLog="false" />
     <notification groupId="IGNORE_GROUP_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Indexing" displayType="NONE" shouldLog="false" />
     <notification groupId="JRebel non-sticky" displayType="NONE" shouldLog="false" />
     <notification groupId="JRebel sticky" displayType="NONE" shouldLog="false" />
     <notification groupId="Kite" displayType="NONE" shouldLog="false" />
