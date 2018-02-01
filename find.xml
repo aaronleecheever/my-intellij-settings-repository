@@ -19,7 +19,6 @@
       <mask>*.hj</mask>
       <mask>*.h</mask>
       <mask>*.v</mask>
-      <mask>*.js</mask>
       <mask>*.tsx</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
@@ -34,6 +33,7 @@
       <mask>*</mask>
       <mask>*.jsx</mask>
       <mask>*.vm</mask>
+      <mask>*.js</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
