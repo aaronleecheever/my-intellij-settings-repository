@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="HomeScreen" type="JavaScript" />
+      <mapping pattern="QuestionCategory" type="PLAIN_TEXT" />
       <mapping ext="ubuntuexample" type="PLAIN_TEXT" />
       <mapping ext="customdms" type="PLAIN_TEXT" />
       <mapping ext="windowsexample" type="PLAIN_TEXT" />
